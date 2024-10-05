@@ -17,5 +17,5 @@ A classic Snake game implemented in Go for terminal play.
     > go run main.go
 ```
 ---
-
+- **Credits**: [tom-on-the-internet/term-snake](https://github.com/tom-on-the-internet/term-snake).
 Enjoy the game! 🐍
